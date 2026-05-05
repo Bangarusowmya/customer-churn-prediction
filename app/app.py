@@ -21,7 +21,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from src.utils import load_model
 from src.feature_engineering import add_features
 
-MODEL_PATH = os.path.join(os.path.dirname(__file__), "..","models/churn_model.pkl")
+MODEL_PATH = "models/churn_model.pkl"
 
 
 @st.cache_resource
