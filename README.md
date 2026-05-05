@@ -107,7 +107,7 @@ streamlit run app/app.py
 ``
 `## 🚀 Live Demo
 Open the app in your browser:
- `https://customer-churn-prediction-7e4rrwmwlqhtmguwdjvfux.streamlit.app/` in your browser.
+ `https://customer-churn-prediction-7e4rrwmwlqhtmguwdjvfux.streamlit.app/` .
 
 ### 4. (Optional) Run the EDA notebook
 
